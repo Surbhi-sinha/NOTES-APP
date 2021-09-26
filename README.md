@@ -1,10 +1,5 @@
 Hey! there :wave: all!
 
-<!-- 
-intro
-add npm packages add
-functionality
-disclosure -->
 
 # NOTES-APP
 
