@@ -14,7 +14,7 @@ const addNotes = function(title , body){
     //which is quite wrong so for this we use a find method which will stop if we found a duplicate note.
     //----------------------------
     
-    
+   
     const duplicateNote = Notes.find((note) => {
         return note.title === title
     })
